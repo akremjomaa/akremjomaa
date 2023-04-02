@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there 👋 I am Akrem Jomaa<br>💻 I 'm a Full Stack Developer <br>🧑🏽‍🎓 I’m third-year professional bachelor student studying CIASIE having an IT bachelor's degree.<br>🤾‍♂️ former handball player<br>
+#About Me:
+Hi there 👋 I am Akrem Jomaa<br>💻 Full Stack Developer <br>🧑🏽‍🎓third-year professional bachelor student studying CIASIE having an IT bachelor's degree.<br>🤾‍♂️ former handball player<br>
 
 
 ## 🌐 Socials:
@@ -15,8 +15,6 @@ Hi there 👋 I am Akrem Jomaa<br>💻 I 'm a Full Stack Developer <br>🧑🏽�
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akremjomaa&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=AkremJomaa)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akremjomaa&limit=5&theme=onedark&combine_all_yearly_contributions=true)
@@ -26,5 +24,3 @@ Hi there 👋 I am Akrem Jomaa<br>💻 I 'm a Full Stack Developer <br>🧑🏽�
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akremjomaa&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
