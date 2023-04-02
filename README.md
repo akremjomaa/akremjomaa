@@ -1,5 +1,5 @@
-#About Me:
-Hi there 👋 I am Akrem Jomaa<br>💻 Full Stack Developer <br>🧑🏽‍🎓third-year professional bachelor student studying CIASIE having an IT bachelor's degree.<br>🤾‍♂️ former handball player<br>
+## About Me:
+Hi there 👋 I am <b>Akrem Jomaa</br><br>💻 Full Stack Developer <br>🧑🏽‍🎓third-year professional bachelor student studying CIASIE having an IT bachelor's degree.<br>🤾‍♂️ former handball player<br>
 
 
 ## 🌐 Socials:
