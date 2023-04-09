@@ -23,4 +23,3 @@ Hi there 👋 I am <b>Akrem Jomaa</br><br>💻 Full Stack Developer <br>🧑🏽
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akremjomaa&icon=0&color=6)](https://visitcount.itsvg.in)
