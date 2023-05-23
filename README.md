@@ -18,8 +18,4 @@ Hi there 👋 I am <b>Akrem Jomaa</br><br>💻 Full Stack Developer <br>🧑🏽
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akremjomaa&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
