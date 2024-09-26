@@ -1,5 +1,5 @@
 ## About Me:
-Hi there 👋 I am <b>Akrem Jomaa</br>🧑🏽‍🎓 I am a first-year Master's student in Computer Science with a Bachelor's degree in Information Technology and a professional Bachelor's degree in CIASIE Fullstack Web Development.<br>🤾‍♂️ former handball player<br>
+Hi there 👋 I am <b>Akrem Jomaa</br>🧑🏽‍🎓 I am a second-year Master's student in Statistics and Computer Science for Data Science with a Bachelor's degree in Information Technology and a professional Bachelor's degree in CIASIE Fullstack Web Development.<br>🤾‍♂️ former handball player<br>
 
 
 ## 🌐 Socials:
